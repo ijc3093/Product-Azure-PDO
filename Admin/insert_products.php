@@ -150,41 +150,42 @@
                             echo'
                             <label class="col-lg-5 col-form-label form-control-label">Year</label>
                             <div class="col-lg-5">
-                                <input class="form-control" name="year" placeholder="" value="" required /><br>
+                                <input type="year"class="form-control" name="year" placeholder="" value="" required /><br>
                             </div>';
 
                             //Start Date
                             echo'
                             <label class="col-lg-5 col-form-label form-control-label">Start Date</label>
                             <div class="col-lg-5">
-                                <input class="form-control" name="datestart" placeholder="" value="" required /><br>
+                                <input type="datetime-local" class="form-control" name="datestart" placeholder="" value="" required /><br>
                             </div>';
 
 
                             //End Date
                             echo'<label class="col-lg-5 col-form-label form-control-label">End Date</label>
                             <div class="col-lg-5">
-                                <input class="form-control" name="dateend" placeholder="" value="" required /><br>
+                                <input type="datetime-local" class="form-control" name="dateend" placeholder="" value="" required /><br>
                             </div>';
 
 
                             //Number Allowed
                             echo'<label class="col-lg-5 col-form-label form-control-label">Number Allowed</label>
                             <div class="col-lg-5">
-                                <input class="form-control" name="NumberAllowed" placeholder="" value="" required/><br>
+                                <input type="number" class="form-control" name="NumberAllowed" placeholder="" value="" required/><br>
                             </div>';
 
 
                             //Description
                             echo'<label class="col-lg-5 col-form-label form-control-label">Description</label>
                             <div class="col-lg-5">
-                                <input class="form-control" name="description" placeholder="" value="" required/><br>
+                                <textarea class="form-control" name="description" rows="10" cols="70" placeholder="Writing Somethings...." value="" required>
+                                </textarea><br>
                             </div>';
 
                             //Capacity
                             echo'<label class="col-lg-5 col-form-label form-control-label">Capacity</label>
                             <div class="col-lg-5">
-                                <input class="form-control" name="capacity" placeholder="" value="" required/><br>
+                                <input type="number" class="form-control" name="capacity" placeholder="" value="" required/><br>
                             </div>';
 
                             //Image
