@@ -31,62 +31,62 @@
 -	The museai’s url should be blocked or forbid from accessing of the hacker
 
 
-Screen
-- Login
+Login
+
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/login.PNG)
 
-- Register
+Register
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/register_data.PNG)
 
-- Admin Role
+Admin Role
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/admin.PNG)
 
 
-- Manager Role
+Manager Role
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/manager.PNG)
 
 
-- User (No role)
+User (No role)
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/attendee.PNG)
 
 
-- Role
+Role
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/role.PNG)
 
 
-- Adding New Role
+Adding New Role
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/insert_user.PNG)
 
 
-- Editing Role
+Editing Role
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/edit_user.PNG)
 
 
-- Displaying General
+Displaying General
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/general.PNG)
 
 
-- Displaying List
+Displaying List
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/list.PNG)
 
 
-- Adding New Product
+Adding New Product
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/insert_product.PNG)
 
 
-- Editing Product
+Editing Product
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/edit_product.PNG)
 
 
-- Displaying Venue
+Displaying Venue
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/venue.PNG)
 
 
-- Adding New Venue
+Adding New Venue
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/insert_venue.PNG)
 
 
-- Ediying Venue
+Ediying Venue
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/edit_venue.PNG)
 
 
