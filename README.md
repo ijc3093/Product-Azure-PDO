@@ -10,7 +10,6 @@
 - leaving the mysql running......
 
 
-
 # Frontend 
 - Open another Visual Code studio (VS)
 - Drag this project into htdoc in XAMPP
@@ -30,4 +29,66 @@
 -	Both manager and user should not be able to access admin accounts
 -	We will maintain session security through the use of secure web tokens
 -	The museai’s url should be blocked or forbid from accessing of the hacker
+
+
+# Screen
+- Login
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/login.PNG)
+
+- Register
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/register_data.PNG)
+
+- Admin Role
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/admin.PNG)
+
+
+- Manager Role
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/manager.PNG)
+
+
+- User (No role)
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/attendee.PNG)
+
+
+- Role
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/role.PNG)
+
+
+- Adding New Role
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/insert_user.PNG)
+
+
+- Editing Role
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/edit_user.PNG)
+
+
+- Displaying General
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/general.PNG)
+
+
+- Displaying List
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/list.PNG)
+
+
+- Adding New Product
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/insert_product.PNG)
+
+
+- Editing Product
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/edit_product.PNG)
+
+
+- Displaying Venue
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/venue.PNG)
+
+
+- Adding New Venue
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/insert_venue.PNG)
+
+
+- Ediying Venue
+![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/edit_venue.PNG)
+
+
+
 
