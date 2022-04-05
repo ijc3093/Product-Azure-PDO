@@ -89,7 +89,7 @@ Adding New Venue
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/insert_venue.PNG)
 
 
-Ediying Venue
+Editing Venue
 ![Screenshot](https://github.com/ijc3093/Product-Azure-PDO/blob/master/Documents/Screen/edit_venue.PNG)
 
 
